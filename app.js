@@ -9,3 +9,6 @@ const port = 3000;
 app.get("/", (req, res) => {
   res.send("Hello world!");
 });
+app.get("/launchx", (req, res) => {
+  res.send("Bienvenidos a Launch X");
+});
