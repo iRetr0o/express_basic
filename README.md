@@ -19,8 +19,9 @@ npm install
 ## Dependencias
 | Nombre  | Versión | Documentación | 
 | :------------: | :------------: | :------------: |
-| Node | 16.14.2 | <a href="https://nodejs.org/docs/latest-v16.x/api/index.html" target="_blank"><img src="https://img.shields.io/badge/🔗 Node-Documentation-green?style=for-the-badge"></a> |
 | Express | 4.18.0 | <a href="https://expressjs.com/en/4x/api.html" target="_blank"><img src="https://img.shields.io/badge/Express-Documentation-lightgray?style=for-the-badge&logo=express"></a> |
+
+Versión de Node: <a href="https://nodejs.org/docs/latest-v16.x/api/index.html" target="_blank">16.14.2</a>
 
 ## ¿Como correr el servidor?
 Una vez instalado las dependencias debemos utilizar el comando `node app.js` y esto empezara a correr nuestra aplicación, sabremos que esta esta corriendo si en la consola se muestra:
